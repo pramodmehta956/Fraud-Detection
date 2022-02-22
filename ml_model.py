@@ -7,3 +7,6 @@ def model2():
     print("adding  code2 for  ML2")
 def model3():
     print("adding  code3 for  ML3")
+    
+
+print ("mode2 is performig best")
